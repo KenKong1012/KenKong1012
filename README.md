@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am currently working on the application of ESG
+I am currently working on the Python, javascript, HTML, css...
 <!--
 **KenKong1012/KenKong1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
